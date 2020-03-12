@@ -1,0 +1,7 @@
+http://reg.avolin.knova.internal:8080/administrator
+http://reg.avolin.knova.internal:8080/knowledgecentral
+http://reg.avolin.knova.internal:8080/selfservice/
+
+http://qa.avolin.knova.internal:8080/administrator
+http://qa.avolin.knova.internal:8080/knowledgecentral
+http://qa.avolin.knova.internal:8080/selfservice/
