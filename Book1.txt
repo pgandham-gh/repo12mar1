@@ -1,3 +1,4 @@
+modified test test 123
 1	"Login into the DCM UI with """"sa/sa"""" default credentials."	The DCM Welcome page is opened.
 2	"Go to the """"DCM Admin"""" tab and """"Supporting Data"""" sub tab on the left side of the page."	"COURSE MANAGEMENT page is opened. Please verify to see the """"Search Course"""" item in the drop down field in the page."
 3	"Click on the """"New Course"""" button in the page."	"The """"New Course"""" party is opened in the browser."
